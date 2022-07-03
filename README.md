@@ -11,6 +11,8 @@ pip3 install -e .
 cd ..
 ```
 
+These imports will fail, but I need them to not fail:
+
 ```
 import captum.optim.images as images
 import captum.optim.transforms as transforms
