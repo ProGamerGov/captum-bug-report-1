@@ -17,6 +17,8 @@ __all__ = [
     "transforms",
     "circuits",
     "reducer",
+    "atlas",
+    "dataset",
     "TestClass7",
     "test_func7",
 ]
