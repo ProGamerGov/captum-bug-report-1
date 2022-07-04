@@ -1,5 +1,7 @@
 """optim submodule."""
 
+__version__ = "0.5.0"
+
 from captum._core import loss, optimization  # noqa: F401
 from captum._param.image import images, transforms  # noqa: F401
 from captum._utils import circuits, reducer  # noqa: F401
